@@ -12,7 +12,7 @@ ETA.csv: The dataset used for analysis (not included in this repository, please 
 Installation
 
 To run this project, you will need to install the following dependencies:
-Python 3.x
+Python 3
 numpy
 pandas
 seaborn
@@ -23,6 +23,8 @@ The analysis includes:
 
 Data quality checks to identify and handle missing values.
 Exploratory Data Analysis (EDA) to visualize relationships between features using heatmaps and other plots.
+Different Machine learning models has been used to do prediction.
+Matrix evaluation.
 
 **Contributing**
 Contributions are welcome! Please fork this repository and submit a pull request for any improvements or bug fixes.
